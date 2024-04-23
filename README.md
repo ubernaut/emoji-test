@@ -5,6 +5,7 @@ A friend of mine made an outrageous claim that emoji at the END of a python scri
 I didn't believe this so I set up a simple test.
 
 ## emoji:
+
 ```
 import random
 import time
